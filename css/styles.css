@@ -22,7 +22,7 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
   font-size: 1.7rem;
-  font-weight: 900;
+  font-weight: bold;
 }
 
 a {
@@ -118,9 +118,10 @@ p{
   color: white;
 }
 .descrip{
+  margin: 0 10px 0 10px;
   color: #40514E;
-  font-size: 1.4rem;
-  font-weight: 800;
+  font-size: 1.3rem;
+  font-weight: 300;
 }
 .footer-link{
   margin: 0 10px 0 10px;
@@ -150,6 +151,12 @@ p{
   background-image: -o-linear-gradient(top, #d11414, #3498db);
   background-image: linear-gradient(to bottom, #d11414, #3498db);
   text-decoration: none;
+}
+.hire{
+  font-weight: bold;
+  margin:0 10px 0 10px;
+  font-size: 1.2rem;
+
 }
 /*.line{
   padding-top: 20px;
